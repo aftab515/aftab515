@@ -1,6 +1,6 @@
 ![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687289/retina_1708x683_op-Ten-Front-End-Design-Rules-For-Developers_Luke-Newsletter-d3a7d3e7430ee224cab75104f11342a0.png)
 <h1 align="center">Greetings! 👋, I'm Aftab Sadiq</h1>
-<h3 align="center">It's an extraordinary delight to present myself. I'm AFTAB, and I'm from Faisalabad, Pakistan. I graduated from the Virtual University of Pakistan in 2021 with a degree in Software Engineering. Since from the last year, I'm functioning as an Web Developer and Front End Development  since I love to make wonderful and performant items with magnificent client encounters. I Invest the vast majority of my energy to do coding remarkable ventures or critical thinking on freeCodeCamp.</h3>
+<h3 align="center">It's an extraordinary delight to present myself. I'm AFTAB, and I'm from Faisalabad, Pakistan. I graduated from the Virtual University of Pakistan in 2021 with a degree in Software Engineering. Since from the last 2 years, I'm functioning as an Web Developer and Front End Development  since I love to make wonderful and performant items with magnificent client encounters. I Invest the vast majority of my energy to do coding remarkable ventures or critical thinking on freeCodeCamp.</h3>
 
 <img align="right" alt="FrontEnd" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
