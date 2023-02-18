@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftab515&label=Profile%20views&color=0e75b6&style=flat" alt="aftab515" /> </p>
 
-<p align="left"> <a href="https://twitter.com/alphadev01" target="blank"><img src="https://img.shields.io/twitter/follow/alphadev01?logo=twitter&style=for-the-badge" alt="alphadev01" /></a> </p>
-
 - 🔭 I’m currently working from **Home**
 
 - 🌱 I’m currently learning **BackEnd Development, mongoDB, and Typscript**
