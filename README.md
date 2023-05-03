@@ -1,4 +1,3 @@
-![MasterHead]
 ![Navy Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/114320334/235852547-01301930-d9de-4f83-acc6-4d577f5c5d11.png)
 
 <h1 align="center">Greetings! 👋, I'm Aftab Sadiq</h1>
