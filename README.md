@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **FrontEnd-Development**
 
-- 📫 How to reach me **aftabsadiq515@gmail.com**
+- 📫 How to reach me **https://alpha-portfolio-515.vercel.app/**
 
 - ⚡ Fun fact **I play Video Games, that's why I'm a better problem solver.**
 
