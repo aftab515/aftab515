@@ -1,7 +1,7 @@
 ![Navy Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/114320334/235852547-01301930-d9de-4f83-acc6-4d577f5c5d11.png)
 
 <h1 align="center">Greetings! 👋, I'm Aftab Sadiq</h1>
-<h3 align="center">It's an extraordinary delight to present myself. I'm AFTAB, and I'm from Faisalabad, Pakistan. I graduated from the Virtual University of Pakistan in 2021 with a degree in Software Engineering. Since from the last 2 years, I'm functioning as an Web Developer and Front End Development  since I love to make wonderful and performant items with magnificent client encounters. I Invest the vast majority of my energy to do coding remarkable ventures or critical thinking on freeCodeCamp.</h3>
+<h3 align="center">It's an extraordinary delight to present myself. I'm AFTAB, and I'm from Faisalabad, Pakistan. I graduated from the Virtual University of Pakistan in 2021 with a degree in Software Engineering. Since from the last 3 years, I'm functioning as an Web Developer and Front End Development  since I love to make wonderful and performant items with magnificent client encounters. I Invest the vast majority of my energy to do coding remarkable ventures or critical thinking on freeCodeCamp.</h3>
 
 <img align="right" alt="FrontEnd" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
