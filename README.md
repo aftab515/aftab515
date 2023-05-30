@@ -1,5 +1,4 @@
-![Github README Main](https://github.com/aftab515/aftab515/assets/114320334/2ae63a80-2310-4136-beae-a52610a782ea)
-
+![Github README Main](https://github.com/aftab515/aftab515/assets/114320334/26b83062-2df2-4af5-9d99-10e02a4aa48d)
 
 <h1 align="center">Greetings! 👋, I'm Aftab Sadiq</h1>
 <h3 align="center">I'm a passionate and skilled full stack developer with expertise in front-end and back-end development. 💻 With a comprehensive skill set in HTML, CSS, JavaScript, and various frameworks like React, I create intuitive and visually appealing user interfaces. 🎨 On the back-end, I'm proficient in server-side programming languages such as Node.js, working with databases like firebase and MongoDB. 🛢️ With a strong understanding of database management, version control systems, and collaboration tools, I have successfully delivered projects, collaborating with cross-functional teams to meet business objectives. 🚀 I'm driven by a deep passion for transforming ideas into impactful software solutions, optimizing performance, and embracing scalable architectures. Let's connect and bring your vision to life together! ✨💪</h3>
