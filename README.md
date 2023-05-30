@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Greetings! 👋, I'm Aftab Sadiq</h1>
-<h3 align="center">It's an extraordinary delight to present myself. I'm AFTAB, and I'm from Faisalabad, Pakistan. I graduated from the Virtual University of Pakistan in 2021 with a degree in Software Engineering. Since from the last 3 years, I'm functioning as an Web Developer and Front End Development  since I love to make wonderful and performant items with magnificent client encounters. I Invest the vast majority of my energy to do coding remarkable ventures or critical thinking on freeCodeCamp.</h3>
+<h3 align="center">I'm a passionate and skilled full stack developer with expertise in front-end and back-end development. 💻 With a comprehensive skill set in HTML, CSS, JavaScript, and various frameworks like React, I create intuitive and visually appealing user interfaces. 🎨 On the back-end, I'm proficient in server-side programming languages such as Node.js, working with databases like firebase and MongoDB. 🛢️ With a strong understanding of database management, version control systems, and collaboration tools, I have successfully delivered projects, collaborating with cross-functional teams to meet business objectives. 🚀 I'm driven by a deep passion for transforming ideas into impactful software solutions, optimizing performance, and embracing scalable architectures. Let's connect and bring your vision to life together! ✨💪</h3>
 
 <img align="right" alt="FrontEnd" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
@@ -14,11 +14,11 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking forward to help with **FrontEnd**
+- 🤝 I’m looking forward to help with **Full-Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aftab515?tab=repositories](https://github.com/aftab515?tab=repositories)
 
-- 💬 Ask me about **FrontEnd-Development**
+- 💬 Ask me about **Full-Stack-Development**
 
 - 📫 How to reach me **https://alpha-portfolio-515.vercel.app/**
 
