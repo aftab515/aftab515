@@ -1,43 +1,91 @@
 ![Github README Main](https://github.com/aftab515/aftab515/assets/114320334/26b83062-2df2-4af5-9d99-10e02a4aa48d)
 
 <h1 align="center">Greetings! 👋, I'm Aftab Sadiq</h1>
-<h3 align="center">I'm a passionate and skilled full stack developer with expertise in front-end and back-end development. 💻 With a comprehensive skill set in HTML, CSS, JavaScript, and various frameworks like React, I create intuitive and visually appealing user interfaces. 🎨 On the back-end, I'm proficient in server-side programming languages such as Node.js, working with databases like firebase and MongoDB. 🛢️ With a strong understanding of database management, version control systems, and collaboration tools, I have successfully delivered projects, collaborating with cross-functional teams to meet business objectives. 🚀 I'm driven by a deep passion for transforming ideas into impactful software solutions, optimizing performance, and embracing scalable architectures. Let's connect and bring your vision to life together! ✨💪</h3>
+<h3 align="center">I am a passionate and skilled full-stack developer with expertise in front-end and back-end development. 💻 My skill set includes HTML, CSS, JavaScript, and frameworks like React for creating intuitive user interfaces. 🎨 On the back-end, I am proficient in Node.js and have experience with databases like Firebase and MongoDB. 🛢️ I have successfully delivered projects by collaborating with cross-functional teams and leveraging my knowledge of database management and version control systems. 🚀 I am dedicated to transforming ideas into impactful software solutions and embracing scalable architectures. Let's connect and bring your vision to life! ✨💪</h3>
 
 <img align="right" alt="FrontEnd" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftab515&label=Profile%20views&color=0e75b6&style=flat" alt="aftab515" /> </p>
 
-- 🔭 I’m currently working from **Home**
+- I'm currently working from **Home**🏠
 
-- 🌱 I’m currently learning **BackEnd Development, mongoDB, and Typscript**
+- I'm looking to collaborate on **Open Source Projects**👯
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- I'm looking forward to help with **Full-Stack**🤝
 
-- 🤝 I’m looking forward to help with **Full-Stack**
+- Ask me about **Full-Stack Development**💬
 
-- 👨‍💻 All of my projects are available at [https://github.com/aftab515?tab=repositories](https://github.com/aftab515?tab=repositories)
+- Fun fact I play **Video Games**, that's why I'm a better **problem solver**⚡🎮
 
-- 💬 Ask me about **Full-Stack-Development**
 
-- 📫 How to reach me **https://alpha-portfolio-515.vercel.app/**
-
-- ⚡ Fun fact **I play Video Games, that's why I'm a better problem solver.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/aftab515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aftab515" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aftab-sadiq-alpha0009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftab-sadiq-alpha0009" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aftab sadiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aftab sadiq" height="30" width="40" /></a>
-<a href="https://fb.com/aftab.sadiq.102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aftab.sadiq.102" height="30" width="40" /></a>
-<a href="https://instagram.com/aftab_sadiq1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aftab_sadiq1998" height="30" width="40" /></a>
+<h3 align="center">Connect with me🤝</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/aftab-sadiq-alpha0009"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="https://www.instagram.com/aftab_sadiq1998/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/AlphaDev01"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://codepen.io/aftab515"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"></a>
+  <a href="https://stackoverflow.com/users/aftab sadiq"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h3 align="center">Languages🗣️</h3>
+<p align="center">
+  <a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
+  <a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftab515&show_icons=true&locale=en&layout=compact" alt="aftab515" /></p>
+<h3 align="center">🌐Technologies & Frameworks🖥️</h3>
+<p align="center">
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" alt="Pug"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftab515&show_icons=true&locale=en" alt="aftab515" /></p>
+<h3 align="center">🎛️ Operating Systems</h3>
+<p align="center">
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11"></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftab515&" alt="aftab515" /></p>
-
+<h3 align="center">🎨 Designing Tools</h3>
+<p align="center">
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" ></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" ></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer" ></a>
+<a href="https://github.com/aftab515"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" ></a>
+  
+</p>
+ 
+<details>
+<p align="center">
+  <a href="https://github.com/aftab515">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aftab515&theme=transparent" />
+  </a>
+  <a href="https://github.com/aftab515">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftab515&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/aftab515">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aftab515&theme=transparent" />
+  </a>
+  <a href="https://github.com/aftab515">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftab515&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
