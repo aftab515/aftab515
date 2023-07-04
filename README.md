@@ -1,4 +1,5 @@
-![Github README Main](https://github.com/aftab515/aftab515/assets/114320334/26b83062-2df2-4af5-9d99-10e02a4aa48d)
+![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/aftab515/aftab515/assets/114320334/bd176313-e1ae-4c82-94fb-24ff239cdc12)
+
 
 <h1 align="center">Greetings! 👋, I'm Aftab Sadiq</h1>
 <h3 align="center">I am a passionate and skilled full-stack developer with expertise in front-end and back-end development. 💻 My skill set includes HTML, CSS, JavaScript, and frameworks like React for creating intuitive user interfaces. 🎨 On the back-end, I am proficient in Node.js and have experience with databases like Firebase and MongoDB. 🛢️ I have successfully delivered projects by collaborating with cross-functional teams and leveraging my knowledge of database management and version control systems. 🚀 I am dedicated to transforming ideas into impactful software solutions and embracing scalable architectures. Let's connect and bring your vision to life! ✨💪</h3>
