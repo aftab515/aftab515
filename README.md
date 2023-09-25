@@ -1,4 +1,6 @@
-![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/aftab515/aftab515/assets/114320334/bd176313-e1ae-4c82-94fb-24ff239cdc12)
+https://github.com/aftab515/aftab515/assets/114320334/47005134-f877-4928-8546-d76128f8fce2
+
+
 
 
 <h1 align="center">Greetings! 👋, I'm Aftab Sadiq</h1>
