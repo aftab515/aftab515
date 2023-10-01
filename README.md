@@ -1,4 +1,5 @@
-https://github.com/aftab515/aftab515/assets/114320334/47005134-f877-4928-8546-d76128f8fce2
+![GitHub Cover](https://github.com/aftab515/aftab515/assets/114320334/7a1e8d3b-fadd-407b-8c99-a1696cf413d7)
+
 
 
 
