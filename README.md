@@ -80,16 +80,16 @@
 <details>
 <p align="center">
   <a href="https://github.com/aftab515">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aftab515&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aftab515&theme=transparent" alt="GitHub Profile Summary" />
   </a>
   <a href="https://github.com/aftab515">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftab515&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftab515&hide_border=true&card_width=338&theme=transparent" alt="GitHub Readme Streak Stats" />
   </a>
   <a href="https://github.com/aftab515">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aftab515&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aftab515&theme=transparent" alt="GitHub Profile Summary Stats" />
   </a>
   <a href="https://github.com/aftab515">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftab515&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftab515&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" alt="Top Languages" />
   </a>
 </p>
 </details>
