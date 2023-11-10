@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Greetings! 👋, I'm Aftab Sadiq</h1>
-<h3 align="center">I am a passionate and skilled full-stack developer with expertise in front-end and back-end development. 💻 My skill set includes HTML, CSS, JavaScript, and frameworks like React for creating intuitive user interfaces. 🎨 On the back-end, I am proficient in Node.js and have experience with databases like Firebase and MongoDB. 🛢️ I have successfully delivered projects by collaborating with cross-functional teams and leveraging my knowledge of database management and version control systems. 🚀 I am dedicated to transforming ideas into impactful software solutions and embracing scalable architectures. Let's connect and bring your vision to life! ✨💪</h3>
+<h3 align="center">I am a passionate and skilled full-stack developer with front-end and back-end development expertise. 💻 My skill set includes HTML, CSS, JavaScript, and frameworks like React for creating intuitive user interfaces. 🎨 On the back end, I am proficient in Node.js and have experience with databases like Firebase and MongoDB. 🛢️ I have successfully delivered projects by collaborating with cross-functional teams and leveraging my database management and version control systems knowledge. 🚀 I am dedicated to transforming ideas into impactful software solutions and embracing scalable architectures. Let's connect and bring your vision to life! ✨💪</h3>
 
 <img align="right" alt="FrontEnd" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
@@ -13,7 +13,7 @@
 
 - I'm currently working from **Home**🏠
 
-- I'm looking to collaborate on **Open Source Projects**👯
+- I'm looking to collaborate on **Open-Source Projects**👯
 
 - I'm looking forward to help with **Full-Stack**🤝
 
@@ -87,9 +87,11 @@
   </a>
   <a href="https://github.com/aftab515">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aftab515&theme=transparent" alt="GitHub Profile Summary Stats" />
-  </a>
-  <a href="https://github.com/aftab515">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftab515&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" alt="Top Languages" />
+</a>
+<a href="https://github.com/aftab515">
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftab515&layout=compact&hide_border=true&title_color=blue&text_color=darkblue&bg_color=ffffff" alt="Top Languages" />
+</a>
+
   </a>
 </p>
 </details>
