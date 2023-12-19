@@ -1,7 +1,4 @@
-![GitHub Cover](https://github.com/aftab515/aftab515/assets/114320334/cdd677f3-587e-4baa-99a0-c7f68904ddd0)
-
-
-
+![GitHub Cover](https://github.com/aftab515/aftab515/assets/114320334/9c13e023-2e10-4562-bada-727a52ff1f20)
 
 
 <h1 align="center">Greetings! 👋, I'm Aftab Sadiq</h1>
